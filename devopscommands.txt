@@ -1,0 +1,95 @@
+    1  exit
+    2  git --vrsion
+    3  git --version
+    4  git clone git@github.com:mudassir-muhammad/jenkinsfirstproject6942817.git
+    5  git clone git@github.com:mudassir-muhammad/devopsclass.git
+    6  exit
+    7  git --version
+    8  ls
+    9  rm -r practiceall/
+   10  ls
+   11  rm -rf practiceall/
+   12  ls
+   13  git clone https://github.com/mudassir-muhammad/practiceall.git
+   14  ls
+   15  cd practiceall/
+   16  ls
+   17  Vim README.md 
+   18  man vim
+   19  vim README.md 
+   20  cat README.md 
+   21  git add .
+   22  git status
+   23  git commit -m "new commit"
+   24  git push
+   25  ls-lah
+   26  ls -lah
+   27  cd .
+   28  ls
+   29  ls -lah
+   30  cd ..
+   31  ls -lah
+   32  cd .ssh/
+   33  ls -lah
+   34  ssh-keygen
+   35  ls -lah
+   36  cat id_rsa.pub
+   37  git push
+   38  cd .
+   39  cd ..
+   40  ls
+   41  mv practiceall/ practiceall.bkp
+   42  ls
+   43  git clone git@github.com:mudassir-muhammad/practiceall.git
+   44  sudo apt update
+   45  sudo apt install git
+   46  git clone git@github.com:mudassir-muhammad/practiceall.git
+   47  ssh-keygen -t ed25519 -C "muhammadmudassir5555@gmail.com"
+   48  ls
+   49  git clone git@github.com:mudassir-muhammad/practiceall.git
+   50  ls -lah
+   51  cd .ssh/
+   52  ls
+   53  cat id_ed25519.pub 
+   54  cd ..
+   55  git clone git@github.com:mudassir-muhammad/practiceall.git
+   56  ls
+   57  cd practiceall/
+   58  l
+   59  vim README.md 
+   60  cat R
+   61  cat README.md 
+   62  git add .
+   63  git commit -m "new commit
+"
+   64  git pus
+   65  git push
+   66  history
+   67  cd ..
+   68  ls
+   69  history 
+   70  history >devops commands.txt
+   71  touch devops commands.txt
+   72  ls
+   73  history
+   74  history > devops commands.txt 
+   75  touch devopscommands1.txt
+   76  history > devopscommands1.txt 
+   77  cat devopscommands1.txt 
+   78  git status
+   79  ls
+   80  cd practiceall
+   81  git status
+   82  cd ..
+   83  cat devopscommands1.txt 
+   84  git status
+   85  sudo apt install git
+   86  git status
+   87  ls
+   88  cd practiceall
+   89  git status
+   90  git branch
+   91  git checkout -b devopscomands
+   92  git branch
+   93  git status
+   94  history > devopscommands.txt
