@@ -93,3 +93,22 @@
    92  git branch
    93  git status
    94  history > devopscommands.txt
+   95  ls
+   96  cat devopscommands.txt 
+   97  ls
+   98  git branch
+   99  git status
+  100  git add devopscommands.txt 
+  101  git status
+  102  git commit -m "devopscomands"
+  103  git push
+  104  git branch 
+  105  git push --set-upstream origin devopscomands
+  106  git branch
+  107  cd ..
+  108  ls
+  109  cd practiceall
+  110  l
+  111  cat devopscommands.txt 
+  112  history
+  113  history > devopscommands.txt 
